@@ -136,9 +136,7 @@ export default function CampusAIProgram() {
               <div className="flex items-center justify-center mb-8">
                 <Image src="/corover-logo.png" alt="CoRover.ai Logo" width={200} height={60} className="h-12 w-auto" />
               </div>
-              <p className="text-transparent bg-clip-text bg-gradient-to-r from-orange-600 to-blue-600 text-sm font-medium">
-                Campus AI Program
-              </p>
+         
             </div>
 
             {/* Main Title */}
